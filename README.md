@@ -1,4 +1,4 @@
-# Tiki-Web-Scraping
+# Data Extraction: Tiki Web 
 My first web scraping project was done as a weekly project for Machine Learning bootcamp at CoderSchool.
 
 Requirement: Build a web-crawler that take in a Tiki URL, an e-commerce website, and return a dataframe that contains following products' information: Name, Price, Thumbnail URL, Product Page URL, Product Rating, Tiki Now, Freeship, Under_Price, Discount, Installment and Gift across all product categories.
